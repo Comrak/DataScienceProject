@@ -1,6 +1,6 @@
 # DataScienceProject
 
-#PROYECTO FINAL 💻
+# PRIMERA ENTREGA DEL PROYECTO FINAL 💻
 
 - Curso: Data Science
 
