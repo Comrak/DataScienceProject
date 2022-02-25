@@ -15,9 +15,3 @@
 - Germán Hilbert
 - Iván González Seguezzo
 - José Nardulli
-<<<<<<< HEAD
-
-
-QA
-=======
->>>>>>> PROD
